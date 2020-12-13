@@ -6,13 +6,15 @@
     <string name="img_description_splash">user icon</string>
 
     <string name="fragment_label_create_profile">Create Profile Fragment</string>
-
-    <string name="fragment_label_profile">Profile Fragment</string>
+    <string name="img_description_profile_picture">profile picture</string>
+    <string name="btn_text_open_gallery">open picture gallery</string>
+    <string name="input_placeholder_first_name">First Name</string>
     <string name="input_hint_last_name">Last Name</string>
     <string name="input_placeholder_description">Description</string>
     <string name="btn_text_confirm">confirm</string>
-    <string name="input_placeholder_first_name">First Name</string>
-    <string name="btn_text_open_gallery">open picture gallery</string>
-    <string name="img_description_profile_picture">profile picture</string>
     <string name="notification_profile_created_success">Profile created</string>
+
+    <string name="fragment_label_profile">Profile Fragment</string>
+    <string name="label_name">%1$s %2$s</string>
+    <string name="paragraph_description" />
 </resources>
