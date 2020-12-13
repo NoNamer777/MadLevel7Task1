@@ -1,4 +1,4 @@
-package com.nonamer777.madlevel7task1
+package com.nonamer777.madlevel7task1.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater

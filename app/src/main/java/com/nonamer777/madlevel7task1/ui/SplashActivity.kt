@@ -1,8 +1,9 @@
-package com.nonamer777.madlevel7task1
+package com.nonamer777.madlevel7task1.ui
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.nonamer777.madlevel7task1.R
 import java.util.concurrent.Executors
 import java.util.concurrent.TimeUnit
 

@@ -1,4 +1,4 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.nonamer777.madlevel7task1.SplashActivity"/>
+    tools:context="com.nonamer777.madlevel7task1.ui.SplashActivity"/>
