@@ -9,7 +9,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import com.nonamer777.madlevel7task1.R
 import com.nonamer777.madlevel7task1.databinding.FragmentProfileBinding
-import java.net.URI
+import com.nonamer777.madlevel7task1.model.ProfileViewModel
 
 /**
  * A [Fragment] subclass that shows the created profile.

@@ -14,6 +14,7 @@ import androidx.navigation.fragment.findNavController
 import com.nonamer777.madlevel7task1.R
 import com.nonamer777.madlevel7task1.databinding.FragmentCreateProfileBinding
 import com.nonamer777.madlevel7task1.model.Profile
+import com.nonamer777.madlevel7task1.model.ProfileViewModel
 
 /**
  * A [Fragment] subclass where Users can create a profile.
@@ -68,7 +69,7 @@ class CreateProfileFragment: Fragment() {
     }
 
     private fun onConfirm() {
-        val profile = Profile(
+        profileViewModel.createProfile(
             binding.inputFirstName.text.ifNullOrEmpty(""),
             binding.inputLastName.text.ifNullOrEmpty(""),
             binding.inputDescription.text.ifNullOrEmpty(""),
