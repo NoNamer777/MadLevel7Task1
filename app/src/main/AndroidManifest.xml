@@ -10,9 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MadLevel7Task1">
         <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.MadLevel7Task1.NoActionBar">
+            android:name=".SplashActivity"
+            android:theme="@style/Theme.MadLevel7Task1.SplashScreenTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
